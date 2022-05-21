@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Jenny",
+    "slug": "valentine",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.Njoku-inc.Jenny"
+    },
+    "android": {
+      "package": "com.Njoku-inc.Jenny"
+    },
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/love.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+
+    "description": "",
+    "githubUrl": "https://github.com/Khay-EMMA/Valentine"
+  }
+}
